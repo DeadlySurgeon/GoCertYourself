@@ -1,6 +1,7 @@
 # Self Signed Certs
 
-A bit of research into self signed certificates.
+A bit of research into self signed certificates, and using them with Golang and
+Electron.
 
 **Editor's Notes**:
 
