@@ -8,8 +8,9 @@ Electron.
 - [Christine](github.com/Xe) recommends
   [minica](https://github.com/jsha/minica) for managing certs which probably
   isn't a bad idea. This example uses the OpenSSL CLI though for learning.
-- Go examples were borrowed from
-  [here](https://gist.github.com/denji/12b3a568f092ab951456).
+- Go examples were borrowed from:
+  - [Server](https://gist.github.com/denji/12b3a568f092ab951456)
+  - [Client](https://stackoverflow.com/questions/38822764/how-to-send-a-https-request-with-a-certificate-golang)
 
 ## Generating a RootCA
 
