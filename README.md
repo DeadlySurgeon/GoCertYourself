@@ -8,6 +8,8 @@ Electron.
 - [Christine](github.com/Xe) recommends
   [minica](https://github.com/jsha/minica) for managing certs which probably
   isn't a bad idea. This example uses the OpenSSL CLI though for learning.
+- Go examples were borrowed from
+  [here](https://gist.github.com/DeadlySurgeon/d8ec47cafa839aa9e68ab6bc1c43f88f).
 
 ## Generating a RootCA
 
