@@ -2,6 +2,12 @@
 
 A bit of research into self signed certificates.
 
+**Editor's Notes**:
+
+- [Christine](github.com/Xe) recommends
+  [minica](https://github.com/jsha/minica) for managing certs which probably
+  isn't a bad idea. This example uses the openssl cli though for learning.
+
 ## Generating a RootCA
 
 To generate a root key
