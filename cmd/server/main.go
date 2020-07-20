@@ -6,8 +6,7 @@ import (
 )
 
 const (
-	// prefix = "../../resources/"
-	prefix = ""
+	prefix = "../../resources/"
 	crt    = prefix + "localhost.crt"
 	key    = prefix + "localhost.key"
 )

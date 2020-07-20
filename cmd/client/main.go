@@ -10,8 +10,7 @@ import (
 )
 
 const (
-	// prefix = "../../resources/"
-	prefix = ""
+	prefix = "../../resources/"
 	cert   = prefix + "localhost.crt"
 )
 
